@@ -22,6 +22,7 @@ The project is structured as follows:
 * **Responsive Design:** Styled with **Bootstrap** to ensure usability across all devices.
 
 ## 📷 Screenshots
+<img width="1899" height="916" alt="pollpage" src="https://github.com/user-attachments/assets/16445bb6-7b01-4ec4-9524-cdc91752ad83" />
 
 ## 🛠️ Technologies Used
 ### Frontend (`poll-app`)

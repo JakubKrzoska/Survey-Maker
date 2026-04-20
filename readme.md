@@ -1,5 +1,4 @@
-# Define the content for the Survey Maker README.md
-survey_maker_readme = """# 🗳️ Survey Maker - Full Stack Application
+# 🗳️ Survey Maker - Full Stack Application
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
